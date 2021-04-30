@@ -1,0 +1,29 @@
+.restaurantInfo{
+    text-align: left;
+    padding-left: 5%;
+    /* border: 3px black solid; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center;
+    align-content: center; */
+}
+
+.swiper{
+    max-height: 600px;
+    overflow-x: auto;
+    border: 4px #f5f6f7 solid;
+}
+  
+
+.restaurant{
+    /* border: 4px yellow solid; */
+    max-width: 30%;
+}
+
+.image{
+    max-width: 100%;
+}
+
+.imageContainer{
+    width: 50%;
+}
